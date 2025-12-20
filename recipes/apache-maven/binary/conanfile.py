@@ -5,7 +5,7 @@ required_conan_version = ">=2.10.0"
 
 class ApacheMavenConan(ConanFile):
     name = "apache-maven"
-    version = "3.9.9"
+    version = "3.9.12"
     license = ("Apache License 2.0")
     homepage = "https://maven.apache.org/download.cgi"
     description = "Apache Maven is a software project management and comprehension tool."
